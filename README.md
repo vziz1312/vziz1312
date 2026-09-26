@@ -1,5 +1,11 @@
 ## Hi there 👋
+<div align="center">
 
+# Mohamed Aziz Mghirbi
+
+Software Engineering student interested in backend development, AI and machine learning.
+
+</div>
 <!--
 **vziz1312/vziz1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
