@@ -21,3 +21,23 @@ building projects and experimenting with different technologies.
 
 At the moment, I'm working on projects involving football data,
 machine learning and backend systems.
+
+---
+
+## Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/mohamed-aziz-mghirbi-3b306a415?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
+
+<a href="https://www.instagram.com/aziz._.mghirbi">
+<img src="https://skillicons.dev/icons?i=instagram" width="45">
+</a>
+
+<a href="https://www.facebook.com/mohamedaziz.mghirbi.77/">
+<img src="https://skillicons.dev/icons?i=facebook" width="45">
+</a>
+
+</div>
