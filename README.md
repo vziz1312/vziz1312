@@ -39,23 +39,15 @@ machine learning and backend systems.
 
 ---
 
+---
+
 ## Tech Stack
 
-<a href="#">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-</a>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</p>
