@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="./banner_full.gif" width="100%">
+
+
 # Mohamed Aziz Mghirbi
 
 Software Engineering student interested in backend development, AI and machine learning.
