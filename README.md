@@ -37,7 +37,7 @@ machine learning and backend systems.
 </a>
 
 <a href="https://www.facebook.com/mohamedaziz.mghirbi.77/">
-<img src="https://skillicons.dev/icons?i=facebook" width="45">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45">
 </a>
 
 </div>
