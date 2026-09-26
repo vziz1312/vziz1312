@@ -24,18 +24,6 @@ machine learning and backend systems.
 
 ---
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vziz1312&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vziz1312&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vziz1312&theme=tokyonight" height="165"/>
-</p>
 ## Socials
 
 <p align="left">
@@ -62,4 +50,17 @@ machine learning and backend systems.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vziz1312&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vziz1312&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vziz1312&theme=tokyonight" height="165"/>
 </p>
