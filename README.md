@@ -29,15 +29,15 @@ machine learning and backend systems.
 <div align="left">
 
 <a href="https://www.linkedin.com/in/mohamed-aziz-mghirbi-3b306a415?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto&size=32" />
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="55" height="55" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/aziz._.mghirbi">
-<img src="https://cdn.simpleicons.org/instagram/E4405F?viewbox=auto&size=32" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" width="55" height="55" alt="Instagram">
 </a>
 
 <a href="https://www.facebook.com/mohamedaziz.mghirbi.77/">
- <img src="https://cdn.simpleicons.org/facebook/1877F2?viewbox=auto&size=32" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/facebook.svg" width="55" height="55" alt="Facebook">
 </a>
 
 </div>
