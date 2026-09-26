@@ -41,7 +41,6 @@ machine learning and backend systems.
 
 ---
 
----
 
 ## Tech Stack
 
