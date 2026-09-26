@@ -25,17 +25,19 @@ machine learning and backend systems.
 ---
 
 
-## Socials:
+## Socials
 
-<a href="https://www.facebook.com/mohamedaziz.mghirbi.77/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/aziz._.mghirbi/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-aziz-mghirbi-3b306a415?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-aziz-mghirbi-3b306a415?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/aziz._.mghirbi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/mohamedaziz.mghirbi.77/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+</p>
 
 ---
 
