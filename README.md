@@ -24,20 +24,17 @@ machine learning and backend systems.
 
 ---
 
+
 ## Connect With Me
 
-<div align="left">
-
-<a href="https://www.linkedin.com/in/mohamed-aziz-mghirbi-3b306a415?utm_source=share_via&utm_content=profile&utm_medium=member_android">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="55" height="55" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/aziz._.mghirbi">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" width="55" height="55" alt="Instagram">
-</a>
-
-<a href="https://www.facebook.com/mohamedaziz.mghirbi.77/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/facebook.svg" width="55" height="55" alt="Facebook">
-</a>
-
-</div>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
