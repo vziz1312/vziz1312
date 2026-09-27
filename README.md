@@ -65,3 +65,9 @@ machine learning and backend systems.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vziz1312&theme=tokyonight" height="165"/>
 </p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vziz1312/vziz1312/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</p>
