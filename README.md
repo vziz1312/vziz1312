@@ -60,7 +60,6 @@ machine learning and backend systems.
 </p>
 
 ---
----
 
 
 ## GitHub Stats
