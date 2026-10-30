@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner_full.gif" width="100%">
+<img src="./fond-ecran-minecraft-programming.jpg" width="100%">
 
 
 # Mohamed Aziz Mghirbi
