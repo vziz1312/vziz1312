@@ -24,6 +24,11 @@ machine learning and backend systems.
 
 ---
 
+## Featured Project
+
+**[CASE/404](https://github.com/vziz1312/case404)** — An interactive detective investigation game built with Angular and TypeScript, featuring case exploration, evidence analysis and suspect investigation through a cinematic noir-inspired interface.
+
+
 ## Socials
 
 <p align="left">
