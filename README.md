@@ -28,6 +28,7 @@ machine learning and backend systems.
 
 **[CASE/404](https://github.com/vziz1312/case404)** — An interactive detective investigation game built with Angular and TypeScript, featuring case exploration, evidence analysis and suspect investigation through a cinematic noir-inspired interface.
 
+**[Football Player Similarity](https://github.com/vziz1312/football-player-similarity)** — A Python-based machine learning project that analyzes football player statistics and identifies similar players based on their playing style using feature engineering and cosine similarity.
 
 ## Socials
 
