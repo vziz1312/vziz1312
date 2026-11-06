@@ -30,6 +30,8 @@ machine learning and backend systems.
 
 **[MetrikXI](https://github.com/vziz1312/MetrikXI.git)** — A Python-based machine learning project that analyzes football player statistics and identifies similar players based on their playing style using feature engineering and cosine similarity.
 
+**[TensorForge](https://github.com/vziz1312/TensorForge)** — A hands-on deep learning project built with Python and TensorFlow, exploring neural networks from tensor operations and individual neurons to model training, evaluation and saving through 12 practical lessons.
+
 ## Socials
 
 <p align="left">
