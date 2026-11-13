@@ -3,7 +3,7 @@
 <img src="./fond-ecran-minecraft-programming.jpg" width="100%">
 
 
-# Mohamed Aziz Mghirbi
+# .Mohamed Aziz Mghirbi.
 
 Software Engineering student interested in backend development, AI and machine learning.
 
